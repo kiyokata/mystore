@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mystore/static/css/main.a64c2faa.css",
+    "main.js": "/mystore/static/js/main.dc5d09f8.js",
+    "static/js/787.b79fff77.chunk.js": "/mystore/static/js/787.b79fff77.chunk.js",
+    "static/media/paranoise2.png": "/mystore/static/media/paranoise2.7013ce61fc982e3be299.png",
+    "static/media/paranoise3.png": "/mystore/static/media/paranoise3.c95ce6031b2b892c7088.png",
+    "static/media/paranoise1.png": "/mystore/static/media/paranoise1.bfb0ad2908c04b285f3c.png",
+    "static/media/jordan-1.jpg": "/mystore/static/media/jordan-1.4ceeb2a57c511b0613aa.jpg",
+    "static/media/banner4.jpeg": "/mystore/static/media/banner4.9ffed22fe0b6d65b4a4e.jpeg",
+    "static/media/dummy-bgimage.jpeg": "/mystore/static/media/dummy-bgimage.6e77cdb4d6155485b8ae.jpeg",
+    "static/media/banner9.webp": "/mystore/static/media/banner9.9bb1c8c1707661d14a69.webp",
+    "static/media/banner5.webp": "/mystore/static/media/banner5.87753b90a22c47535698.webp",
+    "static/media/kbzpay.webp": "/mystore/static/media/kbzpay.9990beca588383fc54f8.webp",
+    "static/media/logo-gucci.jpeg": "/mystore/static/media/logo-gucci.0cf7c32bb035d962425c.jpeg",
+    "static/media/mastercard.png": "/mystore/static/media/mastercard.bb0432e1393c87543d54.png",
+    "static/media/logo-prada.png": "/mystore/static/media/logo-prada.efab9c25c7a86cf3f239.png",
+    "static/media/logo-polo.png": "/mystore/static/media/logo-polo.1c94bcbd3b06113ae7fe.png",
+    "static/media/para-noise-1.avif": "/mystore/static/media/para-noise-1.3244a332e894ecc1f6c6.avif",
+    "static/media/logo-ck.png": "/mystore/static/media/logo-ck.e9198681f24ea8e74ee8.png",
+    "static/media/logo-lv.png": "/mystore/static/media/logo-lv.263dacbd634ca66c55e2.png",
+    "static/media/para-noise-2.avif": "/mystore/static/media/para-noise-2.ac07df8309bf9819f4fa.avif",
+    "static/media/logo-balenciaga.png": "/mystore/static/media/logo-balenciaga.9e7957d8cf3940d169d8.png",
+    "static/media/qrcode.png": "/mystore/static/media/qrcode.30a2023fdb464a6de51f.png",
+    "static/media/logo-adidas.webp": "/mystore/static/media/logo-adidas.45d06869120faf3baa56.webp",
+    "static/media/logo.svg": "/mystore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mystore/index.html",
+    "main.a64c2faa.css.map": "/mystore/static/css/main.a64c2faa.css.map",
+    "main.dc5d09f8.js.map": "/mystore/static/js/main.dc5d09f8.js.map",
+    "787.b79fff77.chunk.js.map": "/mystore/static/js/787.b79fff77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a64c2faa.css",
+    "static/js/main.dc5d09f8.js"
+  ]
+}

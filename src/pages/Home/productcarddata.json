@@ -1,0 +1,30 @@
+[
+    {
+        id: 1,
+        imageUrl: ' https://dummyimage.com/600x400/000/fff.jpg  ',
+        title: 'Product 1 ',
+        price: '19.99',
+        isNew: true,
+      },
+      {
+        id: 2,
+        imageUrl: 'https://dummyimage.com/600x400/000/fff.jpg',
+        title: 'Product 2',
+        price: '24.99',
+        isNew: false,
+      },
+      {
+          id: 3,
+          imageUrl: 'https://dummyimage.com/600x400/000/fff.jpg',
+          title: 'Product 2',
+          price: '24.99',
+          isNew: false,
+        },
+        {
+          id: 4,
+          imageUrl: 'https://dummyimage.com/600x400/000/fff.jpg',
+          title: 'Product 2',
+          price: '24.99',
+          isNew: false
+        }
+    ]

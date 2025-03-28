@@ -1,0 +1,74 @@
+[
+    {
+      "size": "Small",
+      "condition": "New",
+      "price": "$19.99",
+      "colorVariants": ["Red", "Blue"]
+    },
+    {
+      "size": "Large",
+      "condition": "Preowned",
+      "price": "$29.99",
+      "colorVariants": ["Green", "Yellow"]
+    },
+    {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      },
+      {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      },
+      {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      },
+      {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      }, {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      }, {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      }, {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      }, {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      }, {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      }, {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      }, {
+        "size": "Small",
+        "condition": "New",
+        "price": "$19.99",
+        "colorVariants": ["Red", "Blue"]
+      } 
+
+  ]
