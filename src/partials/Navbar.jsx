@@ -85,9 +85,9 @@ const Navbar = () => {
         
               <ul className="hidden md:flex px-4 mx-auto font-light  space-x-12">
                 <li><Link className=" text-slate-800 hover:text-[#959595]" >Home</Link></li>
-                <li><Link className=" text-slate-800 hover:text-[#959595]" >About Us</Link></li>
+                <li><Link className=" text-slate-800 hover:text-[#959595]" >About </Link></li>
           
-                <li><Link className=" text-slate-800 hover:text-[#959595]" >Contact Us</Link></li>
+                <li><Link className=" text-slate-800 hover:text-[#959595]" >Contact </Link></li>
               </ul>
               
               <div className="text-center">
