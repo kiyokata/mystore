@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-wrap -mx-4">
           <div className="w-full md:w-1/2 lg:w-1/4 px-4 mb-8">
             <h3 className="text-slate-800 hover:text-[#959595] text-lg font-light mb-4">About Us</h3>
-            <p className="text-slate-800 font-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p className="text-slate-800 font-light">Discover unique, stylish, and comfortable fashion for every season. We’re passionate about making you look and feel your best.</p>
           </div>
           <div className="w-full md:w-1/2 lg:w-1/4 px-4 mb-8">
             <h3 className="text-slate-800 hover:text-[#959595] text-lg font-light mb-4">Links</h3>
@@ -21,9 +21,9 @@ const Footer = () => {
           </div>
           <div className="w-full md:w-1/2 lg:w-1/4 px-4 mb-8">
             <h3 className="text-slate-800 hover:text-[#959595] text-lg font-light mb-4">Contact Us</h3>
-            <p className="text-slate-800 font-light">123 Street, City, Country</p>
-            <p className="text-slate-800 font-light">info@example.com</p>
-            <p className="text-slate-800 font-light">+1 234 567 890</p>
+            <p className="text-slate-800 font-light">475 Pope St</p>
+            <p className="text-slate-800 font-light">myatkaungkhant21@gmail.com</p>
+            <p className="text-slate-800 font-light">+1 628 263 4980</p>
           </div>
           <div className="w-full md:w-1/2 lg:w-1/4 px-4 mb-8">
             <h3 className="text-slate-800 hover:text-[#959595] text-lg font-light mb-4">Follow Us</h3>

@@ -176,13 +176,13 @@ const Navbar = () => {
                           to="/about"
                           className="text-gray-950 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                         >
-                          About Us
+                          About 
                         </Link>
                         <Link
                           to="/contact"
                           className="text-gray-950 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                         >
-                          Contact Us
+                          Contact 
                         </Link>
                       </div>
                     </div>
